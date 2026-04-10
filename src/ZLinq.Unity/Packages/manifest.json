@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.cysharp.zlinq.dropingenerator.internal": "file:../../ZLinq.DropInGenerator/bin/Debug/netstandard2.0",
+    "com.cysharp.zlinq.dropingenerator.internal": "file:../../ZLinq.DropInGenerator/bin/Debug/netstandard2.1",
     "com.cysharp.zlinq.internal": "file:../../ZLinq/bin/Debug/netstandard2.1",
     "com.github-glitchenzo.nugetforunity": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
     "com.unity.collections": "2.5.3",
